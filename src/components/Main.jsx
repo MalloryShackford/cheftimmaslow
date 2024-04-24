@@ -21,8 +21,8 @@ const Main = () => {
       <div className="title-container">
             <h2>Chef Tim Maslow</h2>
       </div>
-      <img src={bgImg}/>
       <div className="bg-img">
+        <img src={bgImg} alt="backgroundImg"/>
       </div>
       <About />
       <Services />
