@@ -3,6 +3,7 @@ import About from './About';
 import Services from './Services';
 import Contact from './Contact';
 import headshot from '../assets/headshot.png'
+import bgImg from '../assets/personalChef.png'
 import '../styles/main.css';
 const Main = () => {
   return (
@@ -20,6 +21,7 @@ const Main = () => {
       <div className="title-container">
             <h2>Chef Tim Maslow</h2>
       </div>
+      <img src={bgImg}/>
       <div className="bg-img">
       </div>
       <About />
