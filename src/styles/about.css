@@ -1,0 +1,10 @@
+.about-container {
+	padding: 1rem 2rem;
+}
+
+.about-h1 {
+	display: flex;
+	justify-content: center;
+	padding-bottom: 1.5rem;
+	font-family: "Glass Antiqua", cursive;
+}
