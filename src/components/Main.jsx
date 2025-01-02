@@ -29,7 +29,7 @@ const Main = () => {
       <Contact />
       <footer>
         <div className="footer-container">
-          <a href="mailto:hello@cheftimmaslow.com">hello@cheftimmaslow.com</a>
+          <a href="mailto:cheftimmaslow@gmail.com">cheftimmaslow@gmail.com</a>
           <p className="footer-p">&copy; 2024 | Made with &hearts; by <a href="https://www.mallorybae.com">Mallory Shackford</a></p>
         </div>
       </footer>
