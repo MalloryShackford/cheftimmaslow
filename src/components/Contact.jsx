@@ -5,7 +5,7 @@ const Contact = () => {
      <div id="contact" className="contact-container">
         <h1 className="contact-h1">Contact</h1>
         <div className="form-container">
-         <form className="submit_form form" action="https://formsubmit.co/cheftimmaslow@gmail.com" method="POST">
+         <form className="submit_form form" action="https://formsubmit.co/04104112e180065b729f4757aee77175" method="POST">
            <input type="text" name="name" placeholder="Name" required />
            <input type="email" name="email" placeholder="Email" required />
            <input type="text" name="message" placeholder="Message" required />
