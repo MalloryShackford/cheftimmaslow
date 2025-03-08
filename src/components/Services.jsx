@@ -16,7 +16,7 @@ const Services = () => {
           <span>-- A curated menu and commitment to quality guarantee an exclusive experience that will make memories</span>
           <br/>
           <br/>
-        <p>For pricing, please contact us <a className="a-link" href="mailto:cheftimmaslow@gmail.com">here</a></p>  
+        <p>For pricing, please contact us <a className="a-link" href="mailto:hello@cheftimmaslow.com">here</a></p>  
       
 
       
